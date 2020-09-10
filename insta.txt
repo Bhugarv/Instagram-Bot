@@ -1,0 +1,1 @@
+To increase your followers on instagram. This bot is completely build on Selenium. It wil send the multiple follow request to users based on the hashtags you provide in and wioll store th name of those users in a list and will run an unfollow scrip[t on the users present in that list.
